@@ -1,26 +1,26 @@
-title: Hanlin Cai
+title: 王腾（Teng Wang）
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
-description: Two roads diverged in woods, I took the one less traveled by.
+description: 顺境修力，逆境修心.
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+url: https://xiyueyiwan.github.io/
 
 # Owner/author information
 owner:
   name: Teng Wang
   avatar: hanlin.jpg
  # bio:
-  email: hanlin.cai@ieee.org
+  email: wangteng@xupt.edu.cn
   cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  bilibili: 594030035
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
-  # facebook: caihanlin2002
-  # instagram: lancecai2002
+  twitter: 
+  github: xiyueyiwan
+  linkedin: 
+  scholar: https://scholar.google.com
+  bilibili: 
+  researchgate: 
+  zhihu: 
+  # facebook: 
+  # instagram: 
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -28,7 +28,7 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+google_verify: ""
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
