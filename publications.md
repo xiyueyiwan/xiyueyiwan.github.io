@@ -6,36 +6,36 @@ title: Publications
 
 Lastest Update: 15th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
 
+## Journal Paper
+- [Event-set differential privacy for fine-grained data privacy protection](https://doi.org/10.1016/j.neucom.2022.10.006)
+<br>**Teng Wang**, Wanyun Yang, Xin Ma, Bin Wang. Event-set differential privacy for fine-grained data privacy protection. Neurocomputing, 2023, 515:48-58.
+- [Locally Private High-dimensional Crowdsourced Data Release based on Copula Functions](https://doi.org/10.1109/TSC.2019.2961092)
+<br>**Teng Wang**, Xinyu Yang, Xuebin Ren, Wei Yu, Shusen Yang. Locally Private High-dimensional Crowdsourced Data Release based on Copula Functions. IEEE Transactions on Services Computing, 2022, 15(2): 778-792.
+- [Local Differential Privacy-based Frequent Sequence Mining](https://doi.org/10.1016/j.jksuci.2022.04.013)
+<br>Teng Wang, Zhi Hu. Local Differential Privacy-based Frequent Sequence Mining. Journal of King Saud University-Computer and Information Science, 2022, 426: 3591-3601.
+- [Local Differential Privacy for Data Collection and Analysis](https://doi.org/10.1016/j.neucom.2020.09.073)
+<br>**Teng Wang**, Jun Zhao, Zhi Hu, Xinyu Yang, Xuebin Ren, and Kwok-Yan Lam. Local Differential Privacy for Data Collection and Analysis. Neurocomputing, 2021, 426:114-133.
+- [Survey on Improving Data Utility in Differentially Private Sequential Data Publishing](https://doi.org/10.1109/TBDATA.2017.2715334)
+<br>Xinyu Yang, Teng Wang, Xuebin Ren, Wei Yu. Survey on Improving Data Utility in Differentially Private Sequential Data Publishing. IEEE Transactions on Big Data, 2021, 7(4):729-749.
+- [A Comprehensive Survey on Local Differential Privacy Toward Data Statistics and Analysis](https://doi.org/10.3390/s20247030)
+<br>Teng Wang, Xuefeng Zhang, Jingyu Feng, Xinyu Yang. A Comprehensive Survey on Local Differential Privacy Toward Data Statistics and Analysis. Sensors, 2020, 20(24): 1-47.
+- [面向数据流发布的数据自适应隐私保护机制](http://scis.scichina.com/cn/2021/SSI-2020-0076.pdf)
+<br>Teng Wang, Xinyu Yang, Xuebin Ren, Jun Zhao. Data-Adaptive Privacy-preserving Mechanism for Data Stream Publishing in Real-time. SCIENCE CHINA Information Sciences, 2020: 1-15. (面向数据流发布的数据自适应隐私保护机制. 中国科学: 信息科 学, 2020: 1-15.)
+
+  <br>
+
 ## Conference Paper
 
-- [BLEGuard: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://www.researchgate.net/publication/373902807_BLEGuard_Hybrid_Detection_Mechanism_for_Spoofing_Attacks_in_Bluetooth_Low_Energy_Networks_Student_Abstract)<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence (AAAI 2024)<br>(Under Review) Vancouver, Canada. February, 2024.
-
-- [Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model](https://www.researchgate.net/publication/374730865)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics.
-
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://www.researchgate.net/publication/368410220_An_IoT_Garbage_Monitoring_System_for_Effective_Garbage_Management)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
+- 
+- 
+- 
 
   <br>
 
-## Journal Paper
-
-- Coming soon... 🚀
-
-  <br>
 
 ## Working Manuscript
 
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>Sensors Journal (IF: 3.847, JCR Q2). Under major modification.<br>
-
-- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>The 5th International Conference on Modeling, Simulation, Optimization and Algorithm. Under working.
-
-  <br>
-
----
-
-## Undergraduate Thesis
-
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project. Under working<br>Expect to submit a research paper to IEEE Internet of Things Journal.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Intern Program for Junior Students.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/info/1023/2571.htm)<br>
+- 
+- 
 
   <br>
