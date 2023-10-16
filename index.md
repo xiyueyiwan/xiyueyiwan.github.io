@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://xiyueyiwan.github.io/teng_life.jpg" class="floatpic" width="360" height="480">
+<img src="https://xiyueyiwan.github.io/teng_life.jpg" class="floatpic" width="320" height="480">
 
 
 **王腾**，女，1995年1月出生。博士研究生，讲师，硕士研究生导师。2015年获[西安电子科技大学](https://www.xidian.edu.cn/)学士学位，2020年获[西安交通大学](https://www.xjtu.edu.cn/)博士学位，2018-2019年在新加坡南洋理工大学（NTU）交流访学一年。中国计算机学会会员，中国保密协会会员。2022年入选陕西省“普通高校青年杰出人才”支持计划。
