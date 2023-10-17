@@ -17,7 +17,9 @@ layout: page
 - **Nanyang Technological University (NTU) （博士联合培养）** -- 2018.11-2019.12
 - **西安邮电大学 网络空间安全学院 讲师** -- 2020.7-今
 <br>
+
 ---
+
 ### Research Interests
 - 数据安全与隐私保护
 - 隐私保护数据发布与分析
@@ -25,12 +27,16 @@ layout: page
 - 移动群智感知系统、物联网中隐私保护机制设计
 - 隐私计算
 <br>
+
 ---
+
 ### Teaching
 - 本科生课程：《信息安全导论》、《网络攻击与防御技术》、《网络攻防技术》
 - 研究生课程：《隐私技术理论与技术》
 <br>
+
 ---
-## News and Updates
+
+### News and Updates
 - **Sep 2022：** 入选**陕西普通高校“青年杰出人才”**
 <br>
