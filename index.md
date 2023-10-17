@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
 <img src="https://xiyueyiwan.github.io/teng_life.jpg" class="floatpic" width="300" height="480">
 
