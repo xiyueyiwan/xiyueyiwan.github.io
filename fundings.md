@@ -4,7 +4,7 @@ permalink: /fundings/index.html
 title: Fundings
 ---
 
-## 科研项目（Fundings）
+### 科研项目（Fundings）
 
 - 群智感知中面向数据收集与分析的隐私保护机制研究，国家自然科学基金，在研，主持。
 - 面向高维群智感知数据的本地隐私保护机制研究，陕西省自然科学基础研究计划，在研，主持。
