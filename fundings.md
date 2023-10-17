@@ -4,7 +4,9 @@ permalink: /fundings/index.html
 title: Fundings
 ---
 
-## Fundings
+## 科研项目（Fundings）
 
-- Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot<br>**Funding $3000** (Grant No. 202310386056)<br>China National Undergraduate Innovation and Entrepreneurship Training Program<br>Project Leader & Student Investigator (2023-2024)<br><br>
-- Community Monitoring System based on Smart IoT and Inspection Vehicle<br>**Funding $1000** (Grant No. 2023080208)<br>National Youth Science Innovation Project Competition Award<br>Project Leader & Student Investigator (2023)<br><br>
+- 群智感知中面向数据收集与分析的隐私保护机制研究，国家自然科学基金，在研，主持
+- 面向高维群智感知数据的本地隐私保护机制研究，陕西省自然科学基础研究计划，在研，主持。
+- 面向机器学习的隐私保护技术研究，陕西省教育厅科研计划项目，已结题，主持。
+<br>
