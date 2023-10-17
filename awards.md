@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://xiyueyiwan.github.io/file/awards-zh/)
+Lastest Update: 27th Aug 2023 &nbsp; [英文版本 (English Version)](https://xiyueyiwan.github.io/file/awards-zh/)
 
 ## Honors
 - 2023：第七届全国高等学校电子信息类专业青年教师授课竞赛华西赛区“二等奖”
