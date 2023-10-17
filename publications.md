@@ -20,7 +20,7 @@ Lastest Update: 15th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://xi
 - [A Comprehensive Survey on Local Differential Privacy Toward Data Statistics and Analysis](https://doi.org/10.3390/s20247030)
 <br>**Teng Wang**, Xuefeng Zhang, Jingyu Feng, Xinyu Yang. A Comprehensive Survey on Local Differential Privacy Toward Data Statistics and Analysis. Sensors, 2020, 20(24): 1-47.
 - [面向数据流发布的数据自适应隐私保护机制](http://scis.scichina.com/cn/2021/SSI-2020-0076.pdf)
-<br>Teng Wang, Xinyu Yang, Xuebin Ren, Jun Zhao. Data-Adaptive Privacy-preserving Mechanism for Data Stream Publishing in Real-time. SCIENCE CHINA Information Sciences, 2020: 1-15. (面向数据流发布的数据自适应隐私保护机制. 中国科学: 信息科 学, 2020: 1-15.)
+<br>**Teng Wang**, Xinyu Yang, Xuebin Ren, Jun Zhao. Data-Adaptive Privacy-preserving Mechanism for Data Stream Publishing in Real-time. SCIENCE CHINA Information Sciences, 2020: 1-15. (面向数据流发布的数据自适应隐私保护机制. 中国科学: 信息科 学, 2020: 1-15.)
 - [Local Differential Privacy based Federated Learning for Internet of Things](https://doi.org/10.1109/JIOT.2020.3037194)
 <br>Yang Zhao, Jun Zhao, Mengmeng Yang, **Teng Wang**, et al. Local Differential Privacy based Federated Learning for Internet of Things. IEEE Internet of Things Journal (IoTJ), 2020, PP:1-18.
 
