@@ -46,5 +46,5 @@ layout: page
     <h3 class="info-header"><i class="iconfont icon-favorite"></i> <span class="info-title" contenteditable="true">欢迎您访问!</span><span class="unit-remove"></span></h2>
     <hr>
     <h3><script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-        <span id="busuanzi_container_site_pv">访问总量:<div class="divcss5" style="background-image: linear-gradient(90deg, rgb(105, 183, 235), rgb(179, 219, 211), rgb(244, 214, 219));"><br><span style= "text-align:center; "class="divcss5" id="busuanzi_value_site_pv"></span></div>
+        <span id="busuanzi_container_site_pv">访问总量:<div class="divcss5" style="background-image: linear-gradient(90deg, rgb(105, 183, 235), rgb(179, 219, 211), rgb(244, 214, 219));"><br><span style= "text-align:center" class="divcss5" id="busuanzi_value_site_pv"></span></div>
     
