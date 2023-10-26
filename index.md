@@ -41,15 +41,3 @@ layout: page
 - **Sep 2022：** 入选**陕西普通高校“青年杰出人才”**
 <br>
 
-
-### Leave a Message
-
-<br>
-
-{% include disqus.html %} 
-
-<br>
-
-## Web Star History
-
-[Leave a star if you like it 🥰](https://xiyueyiwan.github.io/)
