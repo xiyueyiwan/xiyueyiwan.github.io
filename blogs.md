@@ -11,18 +11,4 @@ title: Blogs
 - 翟林东，硕士研究生。研究方向：隐私保护联邦学习、深度学习。
 - 樊坤渭，硕士研究生。研究方向：隐私保护机器学习。
 
-
-
 <br>
-
-## Leave a Message
-
-<br>
-
-{% include disqus.html %} 
-
-<br>
-
-## Web Star History
-
-[Leave a star if you like it 🥰](https://github.com/GuangLun2000/GuangLun2000.github.io)
