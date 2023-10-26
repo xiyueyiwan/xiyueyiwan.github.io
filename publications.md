@@ -6,7 +6,7 @@ title: Publications
 
 Lastest Update: 15th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://xiyueyiwan.github.io/file/publications-zh/)
 
-## Journal Paper
+## 期刊论文（Journal Paper）
 - [Event-set differential privacy for fine-grained data privacy protection](https://doi.org/10.1016/j.neucom.2022.10.006)
 <br>**Teng Wang**, Wanyun Yang, Xin Ma, Bin Wang. Event-set differential privacy for fine-grained data privacy protection. Neurocomputing, 2023, 515:48-58.
 - [Locally Private High-dimensional Crowdsourced Data Release based on Copula Functions](https://doi.org/10.1109/TSC.2019.2961092)
@@ -26,7 +26,7 @@ Lastest Update: 15th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://xi
 
   <br>
 
-## Conference Paper
+## 会议论文（Conference Paper）
 - [Real-Time Stream Statistics via Local Differential Privacy in Mobile Crowdsensing](https://link.springer.com/chapter/10.1007/978-3-030-89814-4_31)
 <br>**Teng Wang** and Zhi Hu. Real-Time Stream Statistics via Local Differential Privacy in Mobile Crowdsensing. In International Conference on Mobile Multimedia Communications, pp. 432-445. Cham: Springer International Publishing, 2021.
 - [Privacy-preserving Crowd-guided AI Decision-making in Ethical Dilemmas](https://dl.acm.org/doi/abs/10.1145/3357384.3357954)
@@ -35,6 +35,9 @@ Lastest Update: 15th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://xi
 <br>**Teng Wang**, Xinyu Yang, Xuebin Ren, Jun Zhao, Kwok-Yan Lam. Adaptive Differentially Private Data Stream Publishing in Spatio-temporal Monitoring of IoT. IEEE IPCCC, 2019: 1-8.
 - [Copula-based Multi-dimensional Crowdsourced Data Synthesis and Release with Local Privacy](https://doi.org/10.1109/GLOCOM.2017.8253989)
 <br>Xinyu Yang, **Teng Wang**, Xuebin Ren, and Wei Yu. Copula-based Multi-dimensional Crowdsourced Data Synthesis and Release with Local Privacy. IEEE GLOBECOM, 2017:1-6.
+- [Strict Diﬀerentially Private Support Vector Machines with Dimensionality Reduction]
+<br> Teng Wang, Shuanggen Liu, Jiangguo Liang, Shuai Wang, Lu Wang, Junying Song. Strict Diﬀerentially Private Support Vector
+Machines with Dimensionality Reduction. International Conference on Artificial Intelligence Security and Privacy (AIS&P 2023).
 
   <br>
 
